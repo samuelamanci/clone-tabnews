@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Finalizando aula 7 curso.dev</h1>
+    return <h1>Bombom eu tou com fome, trás a janta pra mim por favor</h1>
 }
 
 export default Home;
